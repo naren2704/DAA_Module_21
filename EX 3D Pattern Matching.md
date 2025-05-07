@@ -13,7 +13,7 @@ To write a python program to implement pattern matching on the given string usin
 ```
 ## Program:
 ```
-/*
+
 Program to implement the Pattern Matching.
 Developed by: ALAGU NACHIYAR
 Register Number:  212222240006
