@@ -32,8 +32,8 @@ Otherwise:
 ```
 
 Program to implement to to find the solution of sudoku puzzle using Backtracking.
-Developed by: ALAGU NACHIYAR
-Register Number:  212222240006
+Developed by: NARENDRAN B
+Register Number:  212222240069
 board = [
     [0, 0, 0, 8, 0, 0, 4, 0, 3],
     [2, 0, 0, 0, 0, 4, 8, 9, 0],

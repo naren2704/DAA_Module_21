@@ -18,8 +18,8 @@ To write a python program to check whether Hamiltonian path exits in the given g
 ```
 
 Program to implement to check whether Hamiltonian path exits in the given graph.
-Developed by: ALAGU NACHIYAR
-Register Number:  212222240006
+Developed by: NARENDRAN B
+Register Number:  212222240069
 def is_valid(v,pos,path,adj,N):
     ######################### Add your Code here ##########################
     if adj[path[pos-1]][v]==0:
